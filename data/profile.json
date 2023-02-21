@@ -46,15 +46,21 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Criando Calculadora com React",
+      "url": "https://github.com/S3R6104BR3U/trilha-react-desafio01-calculadora",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Criando um Pokedex com HTML, CSS e JavaScript",
+      "url": "https://github.com/S3R6104BR3U/Pokedex",
+      "github": true
+    },
+    {
+      "name": "Clone da página de login do Instagram, com HTML, CSS e JavaScript",
+      "url": "https://github.com/S3R6104BR3U/instagram-dio",
       "github": true
     }
+
   ],
   "professionalExperience": [
     {
