@@ -51,13 +51,18 @@
       "github": true
     },
     {
-      "name": "Criando um Pokedex com HTML, CSS e JavaScript",
+      "name": "Criando uma Pokedex com HTML, CSS, JavaScript e Consumindo a PokeAPI",
       "url": "https://github.com/S3R6104BR3U/Pokedex",
       "github": true
     },
     {
-      "name": "Clone da página de login do Instagram, com HTML, CSS e JavaScript",
+      "name": "Clone da página de login do Instagram com HTML, CSS e JavaScript",
       "url": "https://github.com/S3R6104BR3U/instagram-dio",
+      "github": true
+    },
+    {
+      "name": "Criando App Lanterna com React Native",
+      "url": "https://github.com/S3R6104BR3U/DIO-Flashlight",
       "github": true
     }
 
